@@ -1,5 +1,8 @@
 const express = require('express');
 const { animals } = require('./data/animals');
+
+// fs to write file
+// path is built into nodes api used to provide utilities for working with file and directory paths
 const fs = require('fs');
 const path = require('path');
 
