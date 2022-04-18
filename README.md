@@ -1,1 +1,1 @@
-# zookeepr
+# Zookeepr - An Animal Tracking Application
